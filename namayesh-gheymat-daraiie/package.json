@@ -1,0 +1,12 @@
+{
+  "name": "price-bot-image",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node src/main.mjs --sample",
+    "start": "node src/main.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.56.1"
+  }
+}

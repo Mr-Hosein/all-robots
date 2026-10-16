@@ -1,0 +1,34 @@
+{
+  "weekDay": "پنجشنبه",
+  "time": "20:31",
+  "dates": {
+    "shamsi": { "day": 16, "month": 7, "year": 1405, "monthName": "مهر" },
+    "hijri": { "day": 26, "month": 4, "year": 1448, "monthName": "ربیع‌الثانی" },
+    "gregorian": { "day": 8, "month": 10, "year": 2026, "monthName": "October" }
+  },
+  "weather": { "temperature": 24, "text": "ابری", "code": 3 },
+  "events": ["روز ملی کودک"],
+  "zodiac": "Virgo",
+  "moon": { "inConstellation": "19 مهر 1405 تا 22 مهر 1405", "inZodiac": null },
+  "monthEdge": "",
+  "isFullMoonNight": false,
+  "items": {
+    "USDTIRT": { "value": 263600, "trend": "up" },
+    "TETHERTOMAN": { "value": 267143, "trend": "down" },
+    "EUR": { "value": 299010, "trend": "flat" },
+    "DERHAM": { "value": 73430, "trend": "flat" },
+    "BRENTOIL": { "value": 106.376, "trend": "down" },
+    "XAUUSD": { "value": 4124.72, "trend": "up" },
+    "MELTEDGOLD": { "value": 43036000, "trend": "flat" },
+    "GOLD18GRAM": { "value": 26305450, "trend": "up" },
+    "COINNEW": { "value": 268300000, "trend": "flat" },
+    "HALFCOIN": { "value": 142800000, "trend": "flat" },
+    "QUARTERCOIN": { "value": 76800000, "trend": "down" },
+    "BTCUSDT": { "value": 81285.53, "trend": "down" },
+    "ETHUSD": { "value": 2413.17, "trend": "down" },
+    "BNBUSDT": { "value": 724.6, "trend": "down" },
+    "BOURSEIDX": { "value": 8131079.61, "trend": "flat" },
+    "FRABOURSEIDX": { "value": 64448.24, "trend": "flat" },
+    "HAMVAZNEIDX": { "value": 2150432.18, "trend": "flat" }
+  }
+}
